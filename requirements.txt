@@ -1,6 +1,7 @@
 ﻿numpy
 pandas
-pillow
+pillow==10.3.0
 requests
 streamlit==1.25.0
+
 
