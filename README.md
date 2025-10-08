@@ -1,13 +1,3 @@
----
-title: Movie Recommender System
-emoji: 🎬
-colorFrom: indigo
-colorTo: pink
-sdk: streamlit
-sdk_version: "1.25.0"
-app_file: app.py
-pinned: false
----
 # 🎬 Movie Recommender System (Streamlit App)
 
 An interactive movie recommendation engine built with **Streamlit**, powered by content-based filtering using movie metadata. This app suggests similar movies based on plot, genre, cast, and keywords — and fetches posters via the TMDB API.
@@ -16,7 +6,7 @@ An interactive movie recommendation engine built with **Streamlit**, powered by 
 
 ## 🚀 Live Demo
 
-> Coming soon — deploy on [Render](https://render.com/)
+> https://movies-recommender-using-app.streamlit.app/
 
 ---
 
